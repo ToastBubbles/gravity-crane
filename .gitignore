@@ -1,0 +1,8 @@
+/.vs
+/Library
+/Logs
+/UserSettings
+/WebGL Builds
+
+
+*.csproj

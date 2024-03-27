@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - TutorialRequirement
+  - Grabbable
+  - ClearGrab
+  - Crane
+  - GrabbableLarge
+  - WinZone
+  - Hazard
+  - CraneBody
+  - Bomb
+  - ClearAllGrab
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SeeThrough
+  - Grabbable
+  - 
+  - Player
+  - Hazard
+  - Environment
+  - ConnectivityReceptor
+  - ConnectivityConnector
+  - Crane
+  - GrabZone
+  - IgnoreSelf
+  - Shield
+  - Bomb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
